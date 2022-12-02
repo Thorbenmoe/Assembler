@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "Z:\ATA\Grueger ASM\sicherheitsschalter\labels.tmp" -fI -W+ie -C V2E -o "Z:\ATA\Grueger ASM\sicherheitsschalter\sicherheitsschalter.hex" -d "Z:\ATA\Grueger ASM\sicherheitsschalter\sicherheitsschalter.obj" -e "Z:\ATA\Grueger ASM\sicherheitsschalter\sicherheitsschalter.eep" -m "Z:\ATA\Grueger ASM\sicherheitsschalter\sicherheitsschalter.map" "Z:\ATA\Grueger ASM\sicherheitsschalter\sicherheitsschalter.asm"

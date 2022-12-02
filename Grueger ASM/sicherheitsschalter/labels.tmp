@@ -1,0 +1,25 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>Z:\ATA\Grueger ASM\sicherheitsschalter</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>Z:\ATA\Grueger ASM\sicherheitsschalter\sicherheitsschalter.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>Z:\ATA\Grueger ASM\sicherheitsschalter\sicherheitsschalter.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Z:\ATA\Grueger ASM\sicherheitsschalter\sicherheitsschalter.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Z:\ATA\Grueger ASM\sicherheitsschalter\sicherheitsschalter.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>Z:\ATA\Grueger ASM\sicherheitsschalter\sicherheitsschalter.asm</FILE><LINE>13</LINE></start>
+  <loop><FILE>Z:\ATA\Grueger ASM\sicherheitsschalter\sicherheitsschalter.asm</FILE><LINE>23</LINE></loop>
+ </LABELS>
+</ASSEMBLER_INFO>
